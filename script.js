@@ -15,6 +15,6 @@ function save (){
 
 function reset () {
     lapCount = 0
-    saveEl.textContent = ""
+    saveEl.textContent = "Times escaped:"
     lapEl.textContent = 0
 }

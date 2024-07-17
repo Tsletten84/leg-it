@@ -29,3 +29,6 @@ body {
     background-color: white;
     color: grey;
 }
+#saved {
+    font-size: 20px;
+}
