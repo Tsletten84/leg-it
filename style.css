@@ -1,0 +1,28 @@
+body {
+   display: flex;
+   justify-content: center;
+   align-self: center;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#mainBlock {
+    width: 350px;
+    border: 3px solid black;
+    height: 300px;
+    background-image: url(img/girl-running.jpg);
+    background-size: cover;
+    color: white;
+    border-radius: 5px;
+}
+#btn {
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    background-color: grey;
+    color: white;   
+}
+#btn:hover {
+    background-color: white;
+    color: grey;
+}
